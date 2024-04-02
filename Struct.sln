@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Struct", "Struct\Struct.vcxproj", "{71A48D84-949F-4739-8FB7-2893A8DD6EEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Struct2", "Struct2\Struct2.vcxproj", "{BFD40BDD-CCB0-49B8-9889-92B623574FD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{71A48D84-949F-4739-8FB7-2893A8DD6EEE}.Release|x64.Build.0 = Release|x64
 		{71A48D84-949F-4739-8FB7-2893A8DD6EEE}.Release|x86.ActiveCfg = Release|Win32
 		{71A48D84-949F-4739-8FB7-2893A8DD6EEE}.Release|x86.Build.0 = Release|Win32
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Debug|x64.ActiveCfg = Debug|x64
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Debug|x64.Build.0 = Debug|x64
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Debug|x86.ActiveCfg = Debug|Win32
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Debug|x86.Build.0 = Debug|Win32
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Release|x64.ActiveCfg = Release|x64
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Release|x64.Build.0 = Release|x64
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Release|x86.ActiveCfg = Release|Win32
+		{BFD40BDD-CCB0-49B8-9889-92B623574FD0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
